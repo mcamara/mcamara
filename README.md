@@ -1,16 +1,15 @@
-[![Marc Cámara profile views](https://u8views.com/api/v1/github/profiles/887052/views/day-week-month-total-count.svg)](https://u8views.com/github/mcamara)
+## Hello there!
 
-<!--
-**mcamara/mcamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marc Cámara, a developer and technical lead based in [Andorra La Vella](https://maps.app.goo.gl/p6Ev74iAdQxowSiK8). 
 
-Here are some ideas to get you started:
+I'm passionate about modern system design and creating scalable, optimized products that hold up in real production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building large-scale distributed systems using Rust 🦀. I enjoy working with large sets of data, my go-to tools are Postgres and ClickHouse for storage, Redis/Valkey for caching, and Kafka for ingestion.
+
+I’m also spending a lot of time on AI, particularly agentic systems, LLM-based applications, and RAG architectures. I’m not just consuming tools, I build custom chatbots, experiment with fine-tuning, and adapt models to specific, real-world use cases.
+
+When I'm not coding, I spend time with my family (a son, a daughter, and a fabulous wife), playing videogames (especially retro ones 🕹️), doing sports (running, pádel, or hitting the gym 💪), and watching basketball (European basketball, not a big fan of the current state of the NBA).
+
+My open source packages have been downloaded over 9 million times, with [laravel-localization](https://github.com/mcamara/laravel-localization) being one of the most notable contributions to the Laravel ecosystem (though I'm no longer actively maintaining it). 📦
+
+Feel free to explore my repositories and reach out if you want to collaborate! ⚡
